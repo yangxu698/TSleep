@@ -1,5 +1,5 @@
 getwd()
-setwd("../Tesserate")
+setwd("../Tesserae")
 library(dplyr)
 
 data0 = read.csv("derived_features_9_23.csv")
