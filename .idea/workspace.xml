@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f05118-49dc-4968-92c8-1957f1febd4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yang.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tesserae.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tesserae.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tesserae.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sem1.r" beforeDir="false" afterPath="$PROJECT_DIR$/sem1.r" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,25 +12,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1438545053">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="188" />
+          <entry key="Python Console" value="643" />
+          <entry key="py" value="1813" />
           <entry key="r" value="46" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="3" />
           <entry key="r" value="1" />
         </counts>
       </usages-collector>
@@ -39,13 +55,14 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="3" />
           <entry key="R" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="188" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="2456" />
           <entry key="R" value="46" />
         </counts>
       </usages-collector>
@@ -53,11 +70,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tesserae.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="435">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pypanda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -87,6 +116,7 @@
       <list>
         <option value="$PROJECT_DIR$/sem1.r" />
         <option value="$PROJECT_DIR$/Tesserae.py" />
+        <option value="$PROJECT_DIR$/pypanda.py" />
       </list>
     </option>
   </component>
@@ -96,11 +126,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1279" />
-    <option name="y" value="591" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1193" />
+    <option name="y" value="619" />
+    <option name="width" value="1390" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,10 +219,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="35" width="3722" height="2125" extended-state="7" />
-    <editor active="true" />
+    <frame x="118" y="35" width="3722" height="2125" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,17 +234,17 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002759" side_tool="true" weight="0.3298913" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005519" side_tool="true" weight="0.53315216" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3298913" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49972406" visible="true" weight="0.5326087" />
-      <window_info anchor="right" x="0" y="0" width="880" height="1925" id="Documentation" sideWeight="0.50116277" side_tool="true" visible="true" weight="0.3496137" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49944812" visible="true" weight="0.53315216" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4988372" visible="true" weight="0.3496137" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4935972" visible="true" weight="0.32560706" />
+      <window_info anchor="right" id="R Graphics" order="4" sideWeight="0.4988372" weight="0.32974613" />
+      <window_info anchor="right" id="R Packages" order="5" sideWeight="0.4988372" weight="0.32974613" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.4988372" weight="0.32974613" />
+      <window_info anchor="right" x="0" y="0" width="880" height="1925" id="Documentation" order="7" sideWeight="0.5064028" side_tool="true" visible="true" weight="0.32560706" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,8 +259,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tesserae.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="435">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pypanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
