@@ -20,3 +20,4 @@ samples10 = data0 %>% sample_n(10) %>% select(garmin_sleep_duration, adjusted_sl
 samples10 = data0 %>% sample_n(10) %>% select(sort(names(.)))
 samples10$current_hr_sent_time
 write.csv(t(samples10),"samples10.csv")
+glimpse(data0)
