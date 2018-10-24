@@ -8,6 +8,8 @@ summary(data0)
 ## data0.noNA = na.omit(data0)
 
 colnames = sort(colnames(data0))
+data1 = data0 %>% select(matches("^acute|episodic|controlling_lifetime|resilience|sleep_duration|misc_."))
+summary(data1,10)
 data1 = data0 %>% select(AcuteStressPrior2HR, AcuteStressRelativeToDay, AcuteStressRelativeToWeek,
                          EpisodicStressDayRelativeToWeek, EpisodicStressDayRelativeToMonth,
                          LifetimeAvgHR, AverageCurrentHR, LifetimeAvgHRV, HrsSleep, CurrentSteps,
